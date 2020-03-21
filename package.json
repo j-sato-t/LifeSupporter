@@ -1,0 +1,19 @@
+{
+  "name": "lifesupporter",
+  "version": "0.0.1",
+  "description": "サポート機能集（予定）",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/j-sato-t/LifeSupporter.git"
+  },
+  "author": "JunSato",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/j-sato-t/LifeSupporter/issues"
+  },
+  "homepage": "https://github.com/j-sato-t/LifeSupporter#readme"
+}
