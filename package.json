@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/j-sato-t/LifeSupporter/issues"
   },
-  "homepage": "https://github.com/j-sato-t/LifeSupporter#readme"
+  "homepage": "https://github.com/j-sato-t/LifeSupporter#readme",
+  "devDependencies": {
+    "typescript": "^3.8.3"
+  }
 }
