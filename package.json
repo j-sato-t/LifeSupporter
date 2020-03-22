@@ -4,7 +4,9 @@
   "description": "サポート機能集（予定）",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+	"build": "./node_modules/.bin/tsc",
+	"clean": "node ./sources/dev/cleanBuild.js ./sources/js"
   },
   "repository": {
     "type": "git",
@@ -17,6 +19,7 @@
   },
   "homepage": "https://github.com/j-sato-t/LifeSupporter#readme",
   "devDependencies": {
+    "fs-extra": "^9.0.0",
     "typescript": "^3.8.3"
   }
 }
