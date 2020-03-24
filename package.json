@@ -23,6 +23,8 @@
     "typescript": "^3.8.3"
   },
   "dependencies": {
+    "@types/express": "^4.17.3",
+    "@types/node": "^13.9.3",
     "express": "^4.17.1"
   }
 }
