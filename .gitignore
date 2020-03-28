@@ -106,3 +106,6 @@ dist
 # test dir
 sources/ts/test/
 sources/js/test/
+
+# devOnly
+devResources/
