@@ -35,11 +35,11 @@ package shopping_supporter {
 		entity coupon_type {
 			type_id
 			type_name
-			condition
+			description
 		}
 		note right:クーポンの種別
 
-		entity coupon {
+		entity coupon_info {
 			coupon_id
 			type_id
 			date_begin
